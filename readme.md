@@ -1,0 +1,7 @@
+INDEX
+=====
+
+Hamburgers
+----------
+
+*cheese burger
