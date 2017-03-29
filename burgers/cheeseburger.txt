@@ -1,0 +1,13 @@
+Cheeseburger
+==============
+
+* Bun
+* Cheese
+* Hamburger
+* Tomato
+* Lettuce
+
+Instructions
+-------------
+
+Grill the hamburger until crisp, when almost done place the cheese on top to melt the cheese.
